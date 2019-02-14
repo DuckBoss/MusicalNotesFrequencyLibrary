@@ -10,3 +10,7 @@ import musical_note_frequencies as mnf
 
 if __name__ == "__main__":
   print(mnf.C) #Prints the frequency of Middle C (C4)
+```
+
+### References:
+http://pages.mtu.edu/~suits/notefreqs.html
