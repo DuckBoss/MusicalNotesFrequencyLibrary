@@ -9,7 +9,8 @@ A python library of musical note frequencies in hertz.
 import musical_note_frequencies as mnf
 
 if __name__ == "__main__":
-  print(mnf.C) #Prints the frequency of Middle C (C4)
+  print(mnf.C) 
+  # prints the frequency of Middle C (C4)
 ```
 
 ### References:
